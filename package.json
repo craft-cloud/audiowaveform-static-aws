@@ -1,0 +1,28 @@
+{
+  "name": "@craft-cloud/audiowaveform-static-aws",
+  "version": "1.0.0",
+  "description": "Audiowaveform binary for AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craft-cloud/audiowaveform-static-aws.git"
+  },
+  "keywords": [
+    "Audiowaveform",
+    "binary",
+    "aws"
+  ],
+  "author": "CraftCloud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craft-cloud/audiowaveform-static-aws/issues"
+  },
+  "homepage": "https://github.com/craft-cloud/audiowaveform-static-aws#readme",
+  "dependencies": {
+    "extract-zip": "^2.0.1"
+  }
+}
